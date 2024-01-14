@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-after-dark",
+  "displayName": "Tokyo After Dark",
+  "description": "Dark Theme Inspired by Tokyo Night and After Dark themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo After Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo After Dark-color-theme.json"
+      }
+    ]
+  }
+}
