@@ -3,6 +3,18 @@
   "displayName": "Tokyo After Dark",
   "description": "Dark Theme Inspired by Tokyo Night and After Dark themes",
   "version": "0.0.1",
+  "publisher": "NSMY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NSMY/tokyo-after-dark"
+  },
+  "keywords": [
+    "tokyo",
+    "dark",
+    "themes",
+    "dark theme",
+    "after dark"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
