@@ -2,6 +2,7 @@
   "name": "tokyo-after-dark",
   "displayName": "Tokyo After Dark",
   "description": "Dark Theme Inspired by Tokyo Night Dark and After Dark themes",
+  "icon": "tadIcon.png",
   "version": "0.3.0",
   "publisher": "NSMY",
   "repository": {
